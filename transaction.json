@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+
+{
+ 'sender':'Pranay',
+ 'receiver' : 'Yash',
+ 'Amount' : '10'
+
+}
